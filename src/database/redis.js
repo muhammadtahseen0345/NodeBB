@@ -16,7 +16,7 @@ redisModule.questions = [
 	{
 		name: 'redis:port',
 		description: 'Host port of your Redis instance',
-		default: nconf.get('redis:port') || 6379,
+		default: nconf.get('redis:port') || 6380,
 	},
 	{
 		name: 'redis:password',

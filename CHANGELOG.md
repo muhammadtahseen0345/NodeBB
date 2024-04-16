@@ -305,7 +305,7 @@
 ##### Bug Fixes
 
 *  #12389, update privilege group check (87a79059)
-*  dupe id (f4b63790)
+*  dupe id (f4b63800)
 *  #12357, properly update lists and counters (f34ebcc9)
 *  use lang key for user avatar label (863f5d0a)
 *  spec (4bcbf759)
